@@ -1,0 +1,17 @@
+{
+  "name": "iras-fake-api",
+  "version": "0.1.0",
+  "description": "A fake API to serve sample Investor Services data, similar to ws.iraservicestrust.com",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/joelove/iras-fake-api.git"
+  },
+  "author": "Joe Love",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joelove/iras-fake-api/issues"
+  },
+  "homepage": "https://github.com/joelove/iras-fake-api#readme"
+}
